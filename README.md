@@ -1,4 +1,2 @@
 # alvinneocom
-most of my projects are written under pseudonyms. if you want to see some, just ask me. currently interested in cryptography.
-
-![this is fine](https://s2.r29static.com/bin/entry/6de/0,0,2000,1050/x,80/1876988/image.jpg)
+hi! i'm a 15yo hs student who writes cryptographic software in his free time. most of my work is pseudonymous. feel free to contact me if you're interested in it: alvinrhaman (at) protonmail (dot) com.
